@@ -5,7 +5,7 @@ main:
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     code: https://github.com/cong-wu/EMP-Net
-    notes: Conditionally Accepted
+    notes: Accepted
     image: ./assets/img/emp.png
     
   - title: "SCD-Net: Spatiotemporal Clues Disentanglement Network for Self-Supervised Skeleton-Based Action Recognition"
