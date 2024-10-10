@@ -10,6 +10,7 @@ The focus of my works is on deep learning approaches for Action Understanding. P
 
 ## News
 
+- _[Sep. 2024]_ We won the second place in Temporal sound localisation of **ECCV 2024 Perception Test Challenge**! Congrats, [Linze](https://happylinze.github.io/).
 - _[Jul. 2024]_ Our paper about Few-Shot Action Recognition is accepted to **ECCV 2024**!
 - _[Dec. 2023]_ Our paper about Self-Superivised 3D Human Action Recognition is accepted to **AAAI 2024**!
 
