@@ -5,6 +5,7 @@ main:
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     code: https://github.com/cong-wu/EMP-Net
+    pdf: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00305.pdf
     notes: Accepted
     image: ./assets/img/emp.png
     
