@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm currently a Lecturer at [the School of Artificial Intelligence and Computer Science, Jiangnan University](https://ai.jiangnan.edu.cn/info/1081/3905.htm). I received my Ph.D. degree from Jiangnan University in 2024 under the supervision of [Prof. Xiao-Jun Wu](https://scholar.google.co.uk/citations?user=5IST34sAAAAJ&hl=en) and [Prof. Josef Kittler](https://scholar.google.co.uk/citations?user=pk-yb_kAAAAJ&hl=en&oi=ao), and Bachelor degree from Jiangnan University in 2018. I was a visiting Ph.D. student at the [Centre for Vision, Speech and Signal Processing (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing), University of Surrey, Guildford, United Kingdom, from 2022 to 2023.
+I'm currently a Lecturer at the [School of Artificial Intelligence and Computer Science](https://ai.jiangnan.edu.cn/info/1081/3905.htm), Jiangnan University. I received my Ph.D. degree from Jiangnan University in 2024 under the supervision of [Prof. Xiao-Jun Wu](https://scholar.google.co.uk/citations?user=5IST34sAAAAJ&hl=en) and [Prof. Josef Kittler](https://scholar.google.co.uk/citations?user=pk-yb_kAAAAJ&hl=en&oi=ao), and Bachelor degree from Jiangnan University in 2018. I was a visiting Ph.D. student at the [Centre for Vision, Speech and Signal Processing (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing), University of Surrey, Guildford, United Kingdom, from 2022 to 2023.
 
 The focus of my works is on deep learning approaches for Action Understanding. Particularly, I have focused on **Video Understanding**, **Vision-Language Modeling**, **Representation Learning**.
 
