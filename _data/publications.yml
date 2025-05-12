@@ -1,5 +1,19 @@
 main:
 
+  - title: "Adaptive Pooling with Dual-Stage Fusion for Skeleton-Based Action Recognition"
+    authors: <strong>Cong Wu</strong>, Xiao-Jun Wu, Tianyang Xu, Josef Kittler
+    conference_short: NN
+    conference: Neural Networks, 2025.
+    pdf: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00305.pdf
+    code: https://github.com/cong-wu/EMP-Net
+
+  - title: "Structural Topology Refinement Network for Skeleton-Based Action Recognition"
+    authors: Rui Wang, Jiayao Jin, Ziheng Chen, <strong>Cong Wu</strong>, Xiao-Jun Wu and Nicu Sebe
+    conference_short: TIM
+    conference: IEEE Transactions on Instrumentation and Measurement, 2025.
+    pdf: https://ieeexplore.ieee.org/document/10994294
+    code: https://github.com/JNAIC/STRN
+    
   - title: "Efficient Few-Shot Action Recognition via Multi-Level Post-Reasoning"
     authors: <strong>Cong Wu</strong>, Xiao-Jun Wu, Linze Li, Tianyang Xu, Zhenhua Feng, Josef Kittler
     conference_short: ECCV
