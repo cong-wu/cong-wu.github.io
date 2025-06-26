@@ -1,4 +1,5 @@
 ## Publication
+- Youwei Zhou, Tianyang Xu, **Cong Wu**, Xiaojun Wu, Josef Kittler. [Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections](https://arxiv.org/pdf/2411.14796). International Conference on Computer Vision, 2025.
 - **Cong Wu**, Xiao-Jun Wu, Tianyang Xu, Josef Kittler. [Adaptive Pooling with Dual-Stage Fusion for Skeleton-Based Action Recognition](https://link.springer.com/chapter/10.1007/978-3-031-78110-0_10). Neural Networks, 2025.
 - Rui Wang, Jiayao Jin, Ziheng Chen, **Cong Wu**, Xiao-Jun Wu and Nicu Sebe. [Structural Topology Refinement Network for Skeleton-Based Action Recognition](https://ieeexplore.ieee.org/document/10994294)). IEEE Transactions on Instrumentation and Measurement, 2025. [code](https://github.com/JNAIC/STRN) 
 - Jiannan Hu, **Cong Wu**, Tianyang Xu, Xiao-Jun Wu, Josef Kittler. [Spatio-Temporal Domain-Aware Network for Skeleton-Based Action Representation Learning](https://link.springer.com/chapter/10.1007/978-3-031-78110-0_10). International Conference on Pattern Recognition, 2024.
