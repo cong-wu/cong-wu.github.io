@@ -1,4 +1,4 @@
-## Publication
+## Selected Publications
 - Youwei Zhou, Tianyang Xu, **Cong Wu**, Xiaojun Wu, Josef Kittler. [Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections](https://arxiv.org/pdf/2411.14796). International Conference on Computer Vision, 2025.
 - **Cong Wu**, Xiao-Jun Wu, Tianyang Xu, Josef Kittler. [Adaptive Pooling with Dual-Stage Fusion for Skeleton-Based Action Recognition](https://link.springer.com/chapter/10.1007/978-3-031-78110-0_10). Neural Networks, 2025.
 - Rui Wang, Jiayao Jin, Ziheng Chen, **Cong Wu**, Xiao-Jun Wu and Nicu Sebe. [Structural Topology Refinement Network for Skeleton-Based Action Recognition](https://ieeexplore.ieee.org/document/10994294)). IEEE Transactions on Instrumentation and Measurement, 2025. [code](https://github.com/JNAIC/STRN) 
@@ -11,3 +11,5 @@
 - Rong-Chang Li, Xiao-Jun Wu, **Cong Wu**, Tian-Yang Xu, Josef Kittler. [Dynamic information enhancement for video classification](https://www.sciencedirect.com/science/article/pii/S0262885621001499). Image and Vision Computing, 2021. [code](https://github.com/RongchangLi/DEN)
 - **Cong Wu**, Xiao-Jun Wu, Josef Kittler. [Graph2Net: Perceptually-Enriched Graph Learning for Skeleton-Based Action Recognition](https://github.com/cong-wu/Graph2Net). IEEE Transactions on Circuits and Systems for Video Technology, 2021. [code](https://github.com/cong-wu/Graph2Net)
 - **Cong Wu**, Xiao-Jun Wu, Josef Kittler. [Spatial residual layer and dense connection block enhanced spatial temporal graph convolutional network for skeleton-based action recognition](https://openaccess.thecvf.com/content_ICCVW_2019/html/SGRL/Wu_Spatial_Residual_Layer_and_Dense_Connection_Block_Enhanced_Spatial_Temporal_ICCVW_2019_paper.html). proceedings of the IEEE/CVF international conference on computer vision workshops, 2019.
+
+(You can also find my publication lists on my [Google Scholar](https://scholar.google.com.hk/citations?user=uc41TYsAAAAJ).)
