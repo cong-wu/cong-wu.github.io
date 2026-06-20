@@ -24,5 +24,3 @@ The focus of my works is on deep learning approaches for Computer Vision. Partic
 {% include_relative _includes/teach.md %}
 
 {% include_relative _includes/services.md %}
-
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=gxVeB73mSSXBhLBh55LoEOAeJuGmdZqYZZJjHJiN_dg'></script>
