@@ -26,3 +26,4 @@ The focus of my works is on deep learning approaches for Computer Vision. Partic
 {% include_relative _includes/services.md %}
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=tt&d=_O92HWkXQukSjdXTixlL_VgPGeXTAZmoJkpRww8wZnY&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=gxVeB73mSSXBhLBh55LoEOAeJuGmdZqYZZJjHJiN_dg&cl=ffffff&w=a"></script>
