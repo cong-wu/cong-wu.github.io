@@ -25,4 +25,4 @@ The focus of my works is on deep learning approaches for Computer Vision. Partic
 
 {% include_relative _includes/services.md %}
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=gxVeB73mSSXBhLBh55LoEOAeJuGmdZqYZZJjHJiN_dg&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=gxVeB73mSSXBhLBh55LoEOAeJuGmdZqYZZJjHJiN_dg'></script>
