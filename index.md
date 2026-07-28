@@ -10,11 +10,12 @@ The focus of my works is on deep learning approaches for Computer Vision. Partic
 
 ## News
 
-- _[Jun. 2026]_ Our paper about Zero-Shot Skeleton-Based Action Recognition is accepted to **ECCV 2026**! Congrats, Xuan.
+- _[Jul. 2026]_ One paper about Self-Superivised 3D Human Action Recognition is accepted to **TPAMI**!
+- _[Jun. 2026]_ One paper about Zero-Shot Skeleton-Based Action Recognition is accepted to **ECCV 2026**! Congrats, Xuan.
 - _[Jun. 2025]_ Our paper about Human Action Recognition is accepted to **ICCV 2025**! Congrats, Youwei.
 - _[Sep. 2024]_ We won the second place in Temporal sound localisation of **ECCV 2024 Perception Test Challenge**! Congrats, [Linze](https://happylinze.github.io/).
-- _[Jul. 2024]_ Our paper about Few-Shot Action Recognition is accepted to **ECCV 2024**!
-- _[Dec. 2023]_ Our paper about Self-Superivised 3D Human Action Recognition is accepted to **AAAI 2024**!
+- _[Jul. 2024]_ One paper about Few-Shot Action Recognition is accepted to **ECCV 2024**!
+- _[Dec. 2023]_ One paper about Self-Superivised 3D Human Action Recognition is accepted to **AAAI 2024**!
 
 {% include_relative _includes/publications.md %}
 
