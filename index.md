@@ -6,7 +6,7 @@ layout: homepage
 
 I'm currently a Lecturer at the [School of Artificial Intelligence and Computer Science](https://ai.jiangnan.edu.cn/info/1081/3905.htm), Jiangnan University. I received my Ph.D. degree from Jiangnan University in 2024 under the supervision of [Prof. Xiao-Jun Wu](https://scholar.google.co.uk/citations?user=5IST34sAAAAJ&hl=en) and [Prof. Josef Kittler](https://scholar.google.co.uk/citations?user=pk-yb_kAAAAJ&hl=en&oi=ao), and Bachelor degree from Jiangnan University in 2018. I was a visiting Ph.D. student at the [Centre for Vision, Speech and Signal Processing (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing), University of Surrey, Guildford, United Kingdom, from 2022 to 2023.
 
-The focus of my works is on deep learning approaches for Computer Vision. Particularly, I have focused on **Video Understanding**(Action Recognition/Spatial Temporal Reasoning/Visual Scene Understanding), **Vision-Language Modeling**, **Representation Learning**(Self-Supervised Learning/Transfer Learning/Few-Shot Learning).
+I am looking for motivated students to join my group on research problems in Computer Vision and Artificial Intelligence. Current research topics mainly include **Video/Motion Understanding/Generation**, **Representation Learning**, **Trustworthy Artificial Intelligence**. If you are interested, please feel free to contact me with a brief introduction of your background, research interests, and CV.
 
 ## News
 
