@@ -10,6 +10,7 @@ I am looking for motivated students to join my group on research problems in Com
 
 ## News
 
+- _[Sep. 2026]_ We won the second and third place in **ChaLearn UDIVA-HHOI Challenge @ ECCV 2026**! Congrats, [Linze](https://happylinze.github.io/).
 - _[Jul. 2026]_ One paper about Self-Superivised 3D Human Action Recognition is accepted to **TPAMI**!
 - _[Jun. 2026]_ One paper about Zero-Shot Skeleton-Based Action Recognition is accepted to **ECCV 2026**! Congrats, Xuan.
 - _[Jun. 2025]_ Our paper about Human Action Recognition is accepted to **ICCV 2025**! Congrats, Youwei.
