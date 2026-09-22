@@ -6,3 +6,5 @@
 - **2nd-Place**, [Multi-Modal Video Reasoning and Analyzing Competition](https://sutdcv.github.io/MMVRAC/)-Person Reidentification (ICME 2024)
 - **2nd-Place**, [Multi-Modal Video Reasoning and Analyzing Competition](https://sutdcv.github.io/MMVRAC/)-Skeleton-based Action Recognition (ICME 2024)
 - **2nd-Place**, [The Second Perception Test Challenge](https://ptchallenge-workshop.github.io/)-Temporal Sound Localisation (ECCV 2024)
+- **2nd-Place**, [ChaLearn UDIVA-HHOI Challenge](https://lap.chalearn.eu/challenge/96/track-1-multimodal-exocentric-event-recognition)-Multimodal Exocentric Event Recognition (ECCV 2026)
+- **3rd-Place**, [ChaLearn UDIVA-HHOI Challenge](https://lap.chalearn.eu/challenge/96/track-5-multimodal-exocentric-causal-event-grounding)-Multimodal Exocentric Causal Event Grounding (ECCV 2026)
